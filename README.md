@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/marwan-hatem-6a516b225/](https://www.linkedin.com/in/marwan-hatem-6a516b225/)
 
-- 💬 Ask me about **Linux Administration, Embedded Linux, YOCTO, ARM, AUTOSAR, microcontrollers**
+- 💬 Ask me about **Linux Administration, Embedded Linux, YOCTO, ARM, AUTOSAR, microcontrollers, AVR, Embedded System**
 
 - 📫 How to reach me **marwanhatem017@gmail.com**
 
